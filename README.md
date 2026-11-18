@@ -61,7 +61,7 @@ Attention to schemas, null values, duplicate records, and validation of transfor
 **Languages** &nbsp; Python · SQL  
 **Data processing** &nbsp; pandas · PySpark  
 **Database** &nbsp; MySQL  
-**Development** &nbsp; Git · GitHub · Jupyter · Google Colab
+**Development** &nbsp; Git · GitHub
 
 ---
 
